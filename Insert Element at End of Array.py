@@ -1,0 +1,5 @@
+arr=list(map(int,input().split()))
+x=int(input())
+
+arr.append(x)
+print(arr)
